@@ -1,0 +1,24 @@
+.shelf-container {
+    background-color: #d34735;
+    font-weight: 700;  
+    width: 500px;
+    height: 60px;
+    display: flex;   
+    border-radius: 3px;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 20px auto;
+
+}
+
+div > span {
+    margin: 0 4em;    
+}
+
+.shelf-links {
+    text-decoration: none;
+    color: white;  
+   
+}
+
