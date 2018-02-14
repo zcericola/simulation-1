@@ -21,9 +21,14 @@
           height: auto;
           font-size: 30px;
           border: none;
-          width: 200px;
+          width: 526px;
           border-radius: 3px;
           padding: 10px 0;
           cursor: pointer;
           outline: none;
   }
+
+  #save, #add {
+          background-color: #40F99B;
+  }
+

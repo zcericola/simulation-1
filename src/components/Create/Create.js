@@ -17,8 +17,10 @@ class Create extends Component {
                     <input type = 'text' className = 'create-input' name = 'product-name'/>
                     <label for = 'price'>Price:</label>
                     <input type = 'text' className = 'create-input' name = 'product-price'/>
-                    <button className = 'create-button' id = 'edit'>Edit</button>
-                    <button className = 'create-button' id = 'delete'>Delete</button>
+                    <button className = 'create-button' id  = 'add'>+ Add Inventory</button>
+                    
+                    {/* <button className = 'create-button' id = 'save'>Save</button>
+                    <button className = 'create-button' id = 'delete'>Delete</button> */}
 
                 </form>
             </div>
